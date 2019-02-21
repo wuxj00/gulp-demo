@@ -1,5 +1,5 @@
 {
-  "name": "gulp-webpack",
+  "name": "gulp-demo",
   "version": "1.0.0",
   "description": "gulp webpack multi-pages",
   "main": "index.js",
