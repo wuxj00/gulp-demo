@@ -29,7 +29,7 @@ node_modules
 /dcim
 
 # 部署文件
-gulpfile.js
+# gulpfile.js
 
 # local env files
 .env.local
